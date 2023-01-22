@@ -2,8 +2,6 @@ version: v1
 breaking:
   use:
     - FILE
-#  ignore:
-#    - proto
 lint:
   use:
     - DEFAULT
